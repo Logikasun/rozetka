@@ -1,0 +1,117 @@
+body {
+    font-family: sans-serif;
+    background-color: white;
+    color: white;
+    margin: 0;
+}
+
+header {
+    background-color: #05BC52;
+    border-bottom: 5px solid #ffffff;
+}
+
+nav {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 15px;
+    align-items: center;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+main{
+    margin: 0px;
+}
+
+h1 {
+    text-align: center;
+    background-color: #05BC52;
+    color: white;
+    padding: 10px;
+    margin: 0px;
+}
+
+p {
+    color: black;
+    font-size: 20px;
+}
+
+.info {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    max-width: 1200px;
+    margin: 0px auto;
+}
+
+article {
+    width: 300px;
+    background-color: #05BC52;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+}
+
+.article-but {
+    background-color: white;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 20px;
+}
+
+footer {
+    background-color: black;
+    margin: 0px;
+    padding: 10px;
+}
+
+footer p {
+    padding: 10px;
+}
+
+header img {
+    height: 100px;
+    width: 100px;
+}
+
+h2 {
+    color: black;
+    border-bottom: 3px solid #05BC52;
+}
+
+.information {
+    background-color: #05BC52;
+    margin: 20px 450px 20px 70px;
+    padding: 10px;
+    color: white;
+}
+
+.information2 {
+    background-color: #05BC52;
+    margin: 20px 70px 20px 450px;
+    padding: 10px;
+    color: white;
+}
+
+.map {
+    text-align: center;
+}
+
+.about {
+    max-width: 900px;
+    margin: 0px auto;
+    padding: 20px;
+}
+
+.copy {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 16px;
+    color: #ccc;
+}
